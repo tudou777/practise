@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "indexer", "indexer\indexer.csproj", "{02178E7E-13ED-4FCE-835C-B52CFB7416E6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Singleton", "Singleton\Singleton.csproj", "{B720FF6B-2DBC-404D-AE57-E839C47C6A61}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "iterator", "iterator\iterator.csproj", "{8F667ED8-AEAC-4533-BEFF-91C8FDF2E906}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{02178E7E-13ED-4FCE-835C-B52CFB7416E6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{02178E7E-13ED-4FCE-835C-B52CFB7416E6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{02178E7E-13ED-4FCE-835C-B52CFB7416E6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{02178E7E-13ED-4FCE-835C-B52CFB7416E6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B720FF6B-2DBC-404D-AE57-E839C47C6A61}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B720FF6B-2DBC-404D-AE57-E839C47C6A61}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B720FF6B-2DBC-404D-AE57-E839C47C6A61}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B720FF6B-2DBC-404D-AE57-E839C47C6A61}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8F667ED8-AEAC-4533-BEFF-91C8FDF2E906}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8F667ED8-AEAC-4533-BEFF-91C8FDF2E906}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8F667ED8-AEAC-4533-BEFF-91C8FDF2E906}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8F667ED8-AEAC-4533-BEFF-91C8FDF2E906}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

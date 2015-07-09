@@ -1,0 +1,6 @@
+H:\练习\WebApplication1\indexer\bin\Debug\indexer.exe.config
+H:\练习\WebApplication1\indexer\obj\Debug\indexer.csprojResolveAssemblyReference.cache
+H:\练习\WebApplication1\indexer\bin\Debug\indexer.exe
+H:\练习\WebApplication1\indexer\bin\Debug\indexer.pdb
+H:\练习\WebApplication1\indexer\obj\Debug\indexer.exe
+H:\练习\WebApplication1\indexer\obj\Debug\indexer.pdb
